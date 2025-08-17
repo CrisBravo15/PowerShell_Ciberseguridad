@@ -1,4 +1,5 @@
-﻿#Script de auditoría básica de usuarios - Cristian Bravo
+﻿#Script de auditoría básica de usuarios
+# Editado por Cristian Adan Bravo Guerra el 16/08/2025
 
 $usuarios = Get-LocalUser
 $sinLogon = @()
