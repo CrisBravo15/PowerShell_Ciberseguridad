@@ -1,1 +1,0 @@
-En este ejercicio se instaló una versión de Kali Linux para ejecutar algunos comandos esenciales de Linux
