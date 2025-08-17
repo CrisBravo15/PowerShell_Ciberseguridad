@@ -1,0 +1,1 @@
+Aqui se creó un programa que verifica si existe el archivo y te regresa el tamaño y la ruta donde se encuentra. Contiene control de errores. Hecho con PowerShell
