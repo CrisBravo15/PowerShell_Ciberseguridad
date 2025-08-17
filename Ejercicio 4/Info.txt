@@ -1,0 +1,1 @@
+En este ejercicio creamos una especie de auditoría para usuarios, para saber cuales usuarios existen en el dispositivo y cuales han iniciado sesión y cuales no. Se realizó con PowerShell
