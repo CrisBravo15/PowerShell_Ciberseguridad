@@ -1,0 +1,1 @@
+Aqui se realiza una auditoría de usuarios y servicios usando modulos y manifiestos. Hecho con PowerShell
