@@ -1,1 +1,0 @@
-Aqui utilizamos la API "Have I Been Pwned" para verificar correos mediante la apikey que nos proporciona al comprar la API
